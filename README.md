@@ -1,30 +1,43 @@
-Hi there 👋
+<div align="center">
 
-Welcome to my Github! My name is Sami, a Queen Mary Computer Science Graduate currently working in the tech field and looking at careers in both web and software development 😁
+# Hi there, I'm Sami 👋
 
-<!--
-**sami246/sami246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### React Native Developer @ [Waracle](https://waracle.com)
 
-Here are some ideas to get you started:
--->
+Building mobile experiences for **9mobile at 9fin** — a £2m product I'm proud to help shape.
 
-- 🔭 Currently working on React Native greenfield project for 9Fin via Waracle.
-- 🌱 Current top skills include React Native, Expo, Supabase, Typescript and a few others
-- 🤔 I’m looking for help with finding jobs in the development sector (contact me if you feel I may be a fit for a role, I'll be happy to speak 😊)
-- 💬 Ask me about all of my many many hobbies, from running my own Youtube channels on my weekly football sessions, anime, manga, long walks, travelling, food, and the list goes on!
-- 📫 How to reach me: Best way would be through my email - samisamadur@gmail.com
-- ⚡ Fun fact: I have amassed over 23 million views on Youtube ⭐
+[🌐 Portfolio](https://www.srmakes.co.uk) · [📱 Apps & projects](https://apps.srmakes.co.uk) · [💼 LinkedIn](https://www.linkedin.com/in/sami-s-rahman) · [✉️ Email](mailto:samisamadur@gmail.com)
 
-More About Me:
- 🕋 Devote Muslim and all my decisons revolve around it
- 🎾 Love playing sports, mainly Tennis, Football and Badminton
- ⚽ Massive Liverpool FC fan 
- 🇧🇩 Bengaladeshi background
- 🏋️‍♀ Gym Goer
- 
- Tech Stack Experience:
- - Web: HTML, CSS, Tailwind, Bootstrap, Ajax, JQuery, React Js, Javascript, Typescript, React Native
- - Backend: Python, Django, Java, C#, PHP
- - Databases: Django DB, SQL, SQLlite, MySQL, Firebase
- 
- - Editing: Sony Vegas, Photoshop, Capcut
+</div>
+
+---
+
+## What I'm working on
+
+I'm a **mid-level frontend developer** at Waracle, working on 9mobile, the React Native app for 9fin. I build and refine customer-facing mobile features with a focus on thoughtful UI, reliable behaviour, and a smooth experience across iOS and Android.
+
+Recently, I've been working on features across the news experience, including saved articles, search and filtering, and catch-up article cards. My day-to-day toolkit includes **React Native, Expo, TypeScript, React Query, and React Native Testing Library**.
+
+## A few things I've built
+
+| Project | A little about it |
+| --- | --- |
+| [**Foodii**](https://www.foodii.co.uk) | A food discovery product for web and mobile, built with React, React Native, Expo, and Supabase. |
+| [**Quick Teams**](https://apps.srmakes.co.uk/projects/quick-teams) | A cross-platform team app with offline-first workflows and real-time sync. |
+| [**Product Launchpad**](https://www.apps.srmakes.co.uk) | A platform for testing product ideas, collecting feedback, and shaping MVPs around real demand. |
+| [**More from SRMakes**](https://www.srmakes.co.uk) | Freelance and personal projects across apps, websites, and e-commerce. |
+
+## My toolkit
+
+`React Native` · `React` · `TypeScript` · `Expo` · `Expo Router` · `React Query` · `Supabase` · `PostgreSQL` · `Firebase` · `Git`
+
+## Outside of code
+
+- ⚽ Massive Liverpool FC fan; also into tennis and badminton.
+- 🏋️ Usually in the gym, out for a long walk, or planning the next trip.
+- 🍜 Always interested in good food (which is probably why I built Foodii).
+- 🎥 I ran a YouTube channel that reached **23 million+ lifetime views**.
+- 🇧🇩 Proud of my Bangladeshi roots.
+- 🕋 My faith is an important part of who I am.
+
+Feel free to reach out about mobile development, projects, food, football, or any of the above. 😊
